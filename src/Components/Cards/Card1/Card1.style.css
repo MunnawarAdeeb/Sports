@@ -1,0 +1,13 @@
+.Card1{background-color:black;
+    display: flex;
+    color: aliceblue;
+}
+.Card1 img{
+    width: 100px;
+    height: 100px;
+   align-self: center;
+}
+.Card1 h2{text-align: center;}
+.Card1 div {
+    padding: 0px 5px 0px 5px;
+}

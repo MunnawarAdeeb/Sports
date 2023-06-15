@@ -1,0 +1,12 @@
+.Card2{background-color: #747e8c;
+}
+.Card2 div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid: 10px;
+    margin: 0px 20px 0px 20px;
+    background-color: #d0d3d9;
+    
+}
+.Card2 h2{text-align: center;
+background-color: #d0d3d9;}
